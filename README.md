@@ -16,7 +16,7 @@ Abstract Few-shot class-incremental learning (FSCIL) presents a core challenge i
 
 ![image-20260123192605267](images/imagenet-r.png)
 
-![image-20260123192619367](images\resource.png)
+![image-20260123192619367](images/resource.png)
 
 # Environment
 
