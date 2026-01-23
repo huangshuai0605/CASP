@@ -58,4 +58,5 @@ we reproduce CASP_imageNet-R under the SEC-prompt framework  [SEC](https://githu
 
 [APT](https://github.com/HaoranChen/Additive-Prompt-Tuning)
 
-[FACT](https: //github.com/zhoudw-zdw/CVPR22-Fact)
+[FACT](https://github.com/zhoudw-zdw/CVPR22-Fact)
+
