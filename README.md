@@ -2,6 +2,8 @@
 
 Code for CASP: Few-Shot Class-Incremental Learning with CLS Token Attention Steering Prompts
 
+Accepted by Pattern Recognition 🎉: https://doi.org/10.1016/j.patcog.2026.113306
+
 ![image-20260123200459005](images/Casp.png)
 
 # Abstract
@@ -15,8 +17,6 @@ Abstract Few-shot class-incremental learning (FSCIL) presents a core challenge i
 ![image-20260123192549837](images/cifar100.png)
 
 ![image-20260123192605267](images/imagenet-r.png)
-
-![image-20260123192619367](images/resource.png)
 
 # Environment
 
